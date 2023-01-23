@@ -1,0 +1,12 @@
+# Site settings
+title:       quorning.org
+email:
+description: 'We fight for vegetables'
+url:         'https://quorning.org'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
